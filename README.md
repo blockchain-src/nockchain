@@ -1,4 +1,4 @@
-# ===Nockchain_node 互动式脚本===
+# Nockchain_node 互动式脚本
 
 ## 🖥️ 支持平台
 
